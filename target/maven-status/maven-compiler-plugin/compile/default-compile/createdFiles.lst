@@ -1,0 +1,16 @@
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser$DeclContext.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser$TermoContext.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser$ProgramaContext.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser$ListaDeclContext.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser.class
+br/ifsp/bcc/compiladores/expr/parser/Calculador.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser$ExpContext.class
+br/ifsp/bcc/compiladores/expr/parser/Principal.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesLexer.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesBaseVisitor.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesBaseListener.class
+br/ifsp/bcc/compiladores/expr/parser/Escopos.class
+br/ifsp/bcc/compiladores/expr/parser/EntradaTabelaDeSimbolos.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesListener.class
+br/ifsp/bcc/compiladores/expr/parser/ExpressoesVisitor.class
+br/ifsp/bcc/compiladores/expr/parser/TabelaDeSimbolos.class

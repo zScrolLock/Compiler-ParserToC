@@ -1,0 +1,11 @@
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesParser.java
+/home/zscrollock/NetBeansProjects/expr-parser/src/main/java/br/ifsp/bcc/compiladores/expr/parser/Principal.java
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesListener.java
+/home/zscrollock/NetBeansProjects/expr-parser/src/main/java/br/ifsp/bcc/compiladores/expr/parser/Escopos.java
+/home/zscrollock/NetBeansProjects/expr-parser/src/main/java/br/ifsp/bcc/compiladores/expr/parser/TabelaDeSimbolos.java
+/home/zscrollock/NetBeansProjects/expr-parser/src/main/java/br/ifsp/bcc/compiladores/expr/parser/Calculador.java
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesBaseVisitor.java
+/home/zscrollock/NetBeansProjects/expr-parser/src/main/java/br/ifsp/bcc/compiladores/expr/parser/EntradaTabelaDeSimbolos.java
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesLexer.java
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesBaseListener.java
+/home/zscrollock/NetBeansProjects/expr-parser/target/generated-sources/antlr4/br/ifsp/bcc/compiladores/expr/parser/ExpressoesVisitor.java
